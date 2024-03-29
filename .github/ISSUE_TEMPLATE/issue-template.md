@@ -1,5 +1,5 @@
 ---
-name: Suggest changes
+name: vin23
 about: If you want to report a bug or suggest improvements, please open an issue.
 title: ''
 labels: discussion, question
